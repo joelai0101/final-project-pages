@@ -162,7 +162,7 @@ window.addEventListener('DOMContentLoaded', event => {
   const submitButton = document.getElementById('submit');
   const myQuestions = [
     {
-      question: "口腔皮膜細胞中最小的成分為何？",
+      question: "細胞中最小的成分為何？",
       answers: {
         a: "基因",
         b: "染色體",
